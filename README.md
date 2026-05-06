@@ -6,7 +6,7 @@ TLD List comes from: https://data.iana.org/rdap/dns.json
 
 To see the status of all RDAP TLD's: https://deployment.rdap.org/
 
-*TLD's last updated on 11/2/2025*
+*TLD's last updated on 5/6/2026*
 
 ## Usage in code
 
